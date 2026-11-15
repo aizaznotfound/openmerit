@@ -1,3 +1,3 @@
-# Open Merit Under Threat
-Static site. No build step. Deploy on Vercel with Framework Preset "Other".
-Pages: / /map /seats /network /timeline /demands /sources
+# Open Merit Archive
+Static site, no build step. Vercel Framework Preset: Other.
+Pages: / /browse /colleges /map /nodes /log /sources /verify /download /about
